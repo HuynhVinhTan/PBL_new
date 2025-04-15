@@ -8,25 +8,30 @@ namespace PBL_Tan.DTO
 {
     class Book
     {
-        private string BookID;
-        private string BookName;
-        private string BookTitle;
-        private string BookDescription;
-        private string BookAuthor;
+        private String bookId;
+        private String name;
+        private String category;
+        private double price;
+        private int stock;
+        private String author;
 
-        public string BookID1 { get => BookID; set => BookID = value; }
-        public string BookName1 { get => BookName; set => BookName = value; }
-        public string BookTitle1 { get => BookTitle; set => BookTitle = value; }
-        public string BookDescription1 { get => BookDescription; set => BookDescription = value; }
-        public string BookAuthor1 { get => BookAuthor; set => BookAuthor = value; }
+        public string BookId { get => bookId; set => bookId = value; }
+        public string Name { get => name; set => name = value; }
+        public string Category { get => category; set => category = value; }
+        public double Price { get => price; set => price = value; }
+        public int Stock { get => stock; set => stock = value; }
+        public string Author { get => author; set => author = value; }
 
-        public Book(string id, string name, string title, string description, string author)
+        public Book(String bookId, String name, String category, double price, int stock, String author)
         {
-            BookID = id; 
-            BookName = name;
-            BookTitle = title;
-            BookDescription = description;
-            BookAuthor = author;
+            this.BookId = bookId;
+            this.Name = name;
+            this.Category = category;
+            this.Price = price;
+            this.Stock = stock;
+            this.Author = author;
         }
+
+        
     }
 }

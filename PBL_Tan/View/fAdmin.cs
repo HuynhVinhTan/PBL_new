@@ -31,12 +31,19 @@ namespace PBL_Tan
 
         private void button1_Click(object sender, EventArgs e)
         {
+            panel3.Controls.Clear();
             LoadFormIntoPanel(new fAdmin_Cus());
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            panel3.Controls.Clear();
+            LoadFormIntoPanel(new fAdmin_Book());
         }
     }
 }

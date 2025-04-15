@@ -214,6 +214,7 @@ namespace PBL_Tan.View
                 MessageBox.Show("Vui lòng chọn một khách hàng để xóa.", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
+            textBox2.ReadOnly = true;
             button_isEnable(false, true);
             textBox1.Text = BUS_Customer.Instance.GetAllCustomer()[Index].UserId;
             textBox2.Text = BUS_Customer.Instance.GetAllCustomer()[Index].UserName;
@@ -240,12 +241,14 @@ namespace PBL_Tan.View
         }
         private void button4_Click(object sender, EventArgs e)
         {
+            textBox2.ReadOnly = false;
             button_isEnable(true, false);
             clear_panel();
             isEnable(false, true);
         }
         private void button5_Click(object sender, EventArgs e)
         {
+            textBox2.ReadOnly = false;
             if (!check_null_panel())
             {
                 return;

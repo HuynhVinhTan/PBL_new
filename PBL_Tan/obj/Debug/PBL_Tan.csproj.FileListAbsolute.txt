@@ -9,3 +9,15 @@ D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.exe
 D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.pdb
 D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.fAdmin.resources
 D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.View.fAdmin_Cus.resources
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\bin\Debug\PBL_Tan.exe.config
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\bin\Debug\PBL_Tan.exe
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\bin\Debug\PBL_Tan.pdb
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.csproj.AssemblyReference.cache
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.Properties.Resources.resources
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.fAdmin.resources
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.View.fAdmin_Book.resources
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.View.fAdmin_Cus.resources
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.csproj.GenerateResource.cache
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.exe
+C:\Users\ASUS-PRO\Source\Repos\FAdmin\PBL_Tan\obj\Debug\PBL_Tan.pdb
