@@ -1,0 +1,11 @@
+D:\C#\PBL_Tan\PBL_Tan\bin\Debug\PBL_Tan.exe.config
+D:\C#\PBL_Tan\PBL_Tan\bin\Debug\PBL_Tan.exe
+D:\C#\PBL_Tan\PBL_Tan\bin\Debug\PBL_Tan.pdb
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.csproj.AssemblyReference.cache
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.Properties.Resources.resources
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.csproj.GenerateResource.cache
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.csproj.CoreCompileInputs.cache
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.exe
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.pdb
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.fAdmin.resources
+D:\C#\PBL_Tan\PBL_Tan\obj\Debug\PBL_Tan.View.fAdmin_Cus.resources

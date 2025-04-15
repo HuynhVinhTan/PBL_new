@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\PBL_Tan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\view\\fadmin_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\view\\fadmin_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\view\\fadmin_cus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\view\\fadmin_cus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\dal\\dal_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\dal\\dal_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\dal\\dal_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\dal\\dal_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\view\\fadmin_cus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\view\\fadmin_cus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\bus\\bus_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\bus\\bus_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|d:\\c#\\pbl_tan\\pbl_tan\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E68F090-AB4B-4A71-8709-A0EE51A93FD9}|PBL_Tan\\PBL_Tan.csproj|solutionrelative:pbl_tan\\dto\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fAdmin_Cus.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\View\\fAdmin_Cus.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\View\\fAdmin_Cus.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\View\\fAdmin_Cus.cs [Design]",
+              "RelativeToolTip": "PBL_Tan\\View\\fAdmin_Cus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:17:01.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fAdmin_Book.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\View\\fAdmin_Book.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\View\\fAdmin_Book.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\View\\fAdmin_Book.cs [Design]",
+              "RelativeToolTip": "PBL_Tan\\View\\fAdmin_Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:48:34.661Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL_Book.cs",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\DAL\\DAL_Book.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\DAL\\DAL_Book.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\DAL\\DAL_Book.cs",
+              "RelativeToolTip": "PBL_Tan\\DAL\\DAL_Book.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:42:58.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\DTO\\Book.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\DTO\\Book.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\DTO\\Book.cs",
+              "RelativeToolTip": "PBL_Tan\\DTO\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:39:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\DTO\\User.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\DTO\\User.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\DTO\\User.cs",
+              "RelativeToolTip": "PBL_Tan\\DTO\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:25:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL_Customer.cs",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\DAL\\DAL_Customer.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\DAL\\DAL_Customer.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\DAL\\DAL_Customer.cs",
+              "RelativeToolTip": "PBL_Tan\\DAL\\DAL_Customer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:23:05.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BUS_Customer.cs",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\BUS\\BUS_Customer.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\BUS\\BUS_Customer.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\BUS\\BUS_Customer.cs",
+              "RelativeToolTip": "PBL_Tan\\BUS\\BUS_Customer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:22:50.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fAdmin_Cus.cs",
+              "DocumentMoniker": "D:\\C#\\PBL_Tan\\PBL_Tan\\View\\fAdmin_Cus.cs",
+              "RelativeDocumentMoniker": "PBL_Tan\\View\\fAdmin_Cus.cs",
+              "ToolTip": "D:\\C#\\PBL_Tan\\PBL_Tan\\View\\fAdmin_Cus.cs",
+              "RelativeToolTip": "PBL_Tan\\View\\fAdmin_Cus.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAASwO4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:17:03.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
